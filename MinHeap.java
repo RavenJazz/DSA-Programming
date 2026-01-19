@@ -5,7 +5,7 @@
 import java.util.*;
 
 // Main class
-class GFG {
+public class MinHeap {
 
     // Main driver method
     public static void main(String args[])
